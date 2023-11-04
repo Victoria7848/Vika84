@@ -70,6 +70,28 @@ a:-webkit-any-link {
     transition: 5s linear;
 }
 
+.button__primary.header {
+    box-shadow: none;
+    flex: none;
+    margin-left: auto;
+    padding: 20px;
+}
+
+
+.button__primary {
+    border: 1px solid var(--orange);
+    color: var(--orange);
+    background-color: orangered;
+    width: 150px;
+    height: 40px;
+    border-radius: 2px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 40px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
 h1 {
     padding-left: 190px;
     font-size: 20px;
