@@ -12,6 +12,10 @@ header {
     height: 150px;
 }
 
+nav {
+    color: #000;
+}
+
 .w-nav {
     z-index: 1000;
     background-color: black;
@@ -20,7 +24,6 @@ header {
 * {
     box-sizing: border-box;
 }
-
 
 .nav__link.phone_hide {
     display: none;
@@ -57,7 +60,6 @@ a {
 }
 
 a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-    text-decoration: underline;
+    color: black;
+    cursor: pointer; 
 }
