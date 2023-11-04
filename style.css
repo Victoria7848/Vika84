@@ -65,12 +65,6 @@ a:-webkit-any-link {
     cursor: pointer; 
 }
 
-.sp_button:hover {
-    background-color: #2adede;
-    box-shadow: 25px 35px 0 0 gold;
-    transition: 5s linear;
-}
-
 .button__primary.header {
     box-shadow: none;
     flex: none;
