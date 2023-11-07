@@ -140,7 +140,7 @@ article {
 
 .product {
     width: 1000px;
-    height: 350px;
+    height: 370px;
     text-align: center;
     padding: 5px;
     border: 1px double gray;
@@ -253,4 +253,9 @@ button {
 }
 .slick-slide img {
     display: block;
+}
+
+h5 {
+    padding-left: 300px;
+    font-size: 20px;
 }
