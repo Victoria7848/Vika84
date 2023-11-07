@@ -215,3 +215,42 @@ button {
     color: black;
     border:none;
 }
+
+.main-teachers__box-title {
+    position: relative;
+    color: #111111;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.444;
+    margin-bottom: 5px;
+}
+
+.main-teachers__box-text {
+    position: relative;
+    max-height: 90px;
+    max-width: 240px;
+    font-size: 14px;
+    line-height: 1.357;
+    margin: 0 auto 10px;
+    overflow: hidden;
+}
+
+.main-teachers__box-button {
+    width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main-teachers__box-button {
+    position: relative;
+    text-align: left;
+    margin-top: auto;
+    z-index: 1;
+}
+
+.main-teachers__box-lang img {
+    max-width: 20px;
+    margin: 0 5px;
+}
+.slick-slide img {
+    display: block;
+}
