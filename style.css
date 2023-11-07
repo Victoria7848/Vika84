@@ -194,64 +194,6 @@ h3 {
     padding-left: 400px;
 }
 
-.main-teachers__box-text {
-    position: relative;
-    max-height: 90px;
-    max-width: 840px;
-    font-size: 14px;
-    line-height: 1.357;
-    margin: 0 auto 10px;
-    overflow: hidden;
-}
-
-.main-teachers__slider .main-teachers__box {
-    box-shadow: none;
-    margin-left: 15px;
-    margin-right: 15px;
-}
-
-.main-teachers__box {
-    min-height: 350px;
-    padding-bottom: 30px;
-}
-
-.main-teachers__box-img {
-    position: relative;
-    display: -webkit-inline-flex;
-    display: -ms-inline-flexbox;
-    display: inline-flex;
-    -webkit-justify-content: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    width: 116px;
-    margin: -20px auto 10px;
-}
-
-.main-teachers__slider .slick-slide {
-    transition: opacity 0.3s ease;
-}
-.slick-initialized .slick-slide {
-    display: block;
-}
-.main-teachers__slider .slick-slide {
-    transition: opacity 0.3s ease;
-}
-.slick-initialized .slick-slide {
-    display: block;
-}
-.slick-slide {
-    display: none;
-    float: left;
-    height: 100%;
-    min-height: 1px;
-}
-.slick-slide {
-    display: none;
-    float: left;
-    height: 100%;
-    min-height: 1px;
-}
-
 h4 {
     padding-left: 80px;
     font-size: 18px;
@@ -261,4 +203,15 @@ h4 {
 
 li {
     font-family: Brush Script MT ;
+}
+
+.button:hover{
+    background-color: green;
+    transition: 0.4;
+}
+
+button {
+    background-color: #EC5A21;
+    color: black;
+    border:none;
 }
