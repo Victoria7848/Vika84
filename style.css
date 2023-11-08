@@ -389,6 +389,12 @@ div {
     display: block;
 }
 
-iframe {
-    display: inline-block;
+.block1{
+  float:left;
+  padding:10px;
+}
+
+.block2{
+  float:left;
+  padding:10px;
 }
