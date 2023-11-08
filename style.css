@@ -388,3 +388,7 @@ a {
 div {
     display: block;
 }
+
+iframe {
+    display: inline-block;
+}
