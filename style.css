@@ -393,3 +393,9 @@ div {
   float:left;
   padding:10px;
 }
+
+h6 {
+    font-family: Roboto, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
