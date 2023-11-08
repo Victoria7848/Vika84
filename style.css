@@ -323,7 +323,7 @@ li {
 }
 .sppb-gallery {
     list-style: none;
-    padding: 0;
+    padding: 300;
     margin: 0;
     display: flex;
     flex-wrap: wrap;
