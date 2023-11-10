@@ -409,3 +409,41 @@ h6 {
 .box :first-child {
   align-self: center;
 }
+
+.t774 .t-align_left .t-card__btn, .t774 .t-align_left .t-card__btn-text {
+    margin: 0 4px 8px 0;
+}
+.t774 .t-card__btn {
+    display: inline-flex;
+    display: -webkit-inline-flex;
+    justify-content: center;
+    -webkit-justify-content: center;
+    align-items: center;
+    -webkit-align-items: center;
+    max-width: 100%;
+    line-height: 1;
+}
+.t-btn_sm {
+    width: 140px;
+    height: 25px;
+    font-size: 14px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.home_robot{
+    width: 150px;
+    text-align: center;
+    padding: 5px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: #FFFFFF;
+}
+
+section {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 1000px;
+    margin: 0 30px;
+}
