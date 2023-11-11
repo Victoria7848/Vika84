@@ -191,7 +191,7 @@ article {
 }
 
 h3 {
-    padding-left: 400px;
+    padding-left: 600px;
 }
 
 h4 {
@@ -454,7 +454,8 @@ section {
     margin: 0 30px;
 }
 
-h7 {
-    padding-left: 500px;
-    font-size: 19px;
+footer {
+    background-color: #D9D9D9;
+    padding: 10px;
+    margin-top: 20px;
 }
