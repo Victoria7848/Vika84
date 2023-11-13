@@ -89,6 +89,7 @@ a:-webkit-any-link {
 
 .button__primary:hover {
     background-image: linear-gradient(black, blue);
+    color: black;
 }
 
 h1 {
