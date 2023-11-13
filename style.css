@@ -318,6 +318,10 @@ a:-webkit-any-link {
 }
 
 
+a:hover {
+    color: rgb(143, 95, 36);
+}
+
 li {
     text-align: -webkit-match-parent;
 }
